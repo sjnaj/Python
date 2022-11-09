@@ -1,7 +1,7 @@
 '''
 Author: fengsc
 Date: 2022-03-05 13:32:41
-LastEditTime: 2022-03-05 14:28:40
+LastEditTime: 2022-03-30 10:14:24
 '''
 from circle import Circle
 from rectangle import Rectangle
@@ -13,6 +13,7 @@ print(cir1.area)
 print(cir1)
 del cir1.radius
 print(cir1.radius)
+print(cir1.attrs)
 
 rec1 = Rectangle(5, 5, color="black")
 

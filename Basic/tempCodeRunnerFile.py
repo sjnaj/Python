@@ -1,0 +1,6 @@
+ax = fig.add_axes([0,0,1,1])
+ax.plot(x,y)
+ax.set_title("sine wave")
+ax.set_xlabel('angle')
+ax.set_ylabel('sine')
+plt.show()

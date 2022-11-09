@@ -1,7 +1,7 @@
 '''
 Author: fengsc
 Date: 2022-03-01 11:08:55
-LastEditTime: 2022-03-01 13:38:50
+LastEditTime: 2022-03-16 17:46:35
 '''
 #!/usr/bin/env python
 
@@ -14,7 +14,7 @@ def main():
     print('Hello there', sys.argv[1])
 
 # Command line args are in sys.argv[1], sys.argv[2] ...
-# sys.argv[0] is the script name itself and can be ignored
+# sys.argv[0] is the script name itself and can bed ignored
 
 
 # Standard boilerplate to call the main() function to begin
